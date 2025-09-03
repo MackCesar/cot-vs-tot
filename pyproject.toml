@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "cot-vs-tot"
+version = "0.1.0"
+description = "Chain-of-Thought vs Tree-of-Thought reasoning harness"
+dependencies = []
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"

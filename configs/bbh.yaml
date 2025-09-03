@@ -1,0 +1,6 @@
+dataset: "lukeamon/bbh"
+subset: "date_understanding"
+split: "test"
+max_samples: 50
+answer_key_field: "target"
+question_field: "input"

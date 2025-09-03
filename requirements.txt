@@ -1,0 +1,13 @@
+python-dotenv
+huggingface_hub
+datasets
+evaluate
+transformers>=4.44.0
+accelerate
+openai>=1.40.0
+tiktoken
+numpy
+pandas
+scikit-learn
+matplotlib
+pyyaml

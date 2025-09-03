@@ -1,0 +1,7 @@
+dataset: "ai2_arc"
+subset: "ARC-Challenge"
+split: "test"
+max_samples: 100
+answer_key_field: "answerKey"
+question_field: "question"
+choice_field: "choices"

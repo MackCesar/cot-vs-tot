@@ -1,0 +1,6 @@
+dataset: "openai/gsm8k"
+subset: "main"
+split: "test"
+max_samples: 100
+answer_key_field: "answer"
+question_field: "question"
