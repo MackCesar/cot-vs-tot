@@ -48,8 +48,8 @@ python -m src.eval --run-dir results/<your_run_folder>
 
 ### References
 • [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)\
-• [Self-Consistency](https://arxiv.org/abs/2203.11171)
-• [Tree-of-Thoughts](https://arxiv.org/abs/2305.10601)
+• [Self-Consistency](https://arxiv.org/abs/2203.11171)\
+• [Tree-of-Thoughts](https://arxiv.org/abs/2305.10601)\
 • [BIG-Bench Hard](https://arxiv.org/abs/2206.04615)
 
 ### License
