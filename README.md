@@ -7,7 +7,7 @@
  • **Tree-of-Thoughts (ToT)** → branching exploration of possible reasoning steps. \
  • **Graph-of-Thoughts (GoT)** → voting across multiple CoT runs (a toy graph-based variant).
 
-<p>The idea is to see how prompting strategies can improve reasoning accuracy on benchmarks like GSM8K, BIG-Bench Hard, and ARC-Challenge.</p>
+<p>The idea is to see how prompting strategies can improve reasoning accuracy on benchmarks like GSM8K, BIG-Bench Hard, and ARC-Challenge. This repo is a research playground for myself: it’s not about state-of-the-art results, but about learning how reasoning methods differ in practice.</p>
 
 ## What you’ll learn
 
@@ -45,8 +45,6 @@ python -m src.eval --run-dir results/<your_run_folder>
 • Reasoning is not “one prompt and done.” Different strategies yield different results. \
 • Self‑consistency and tree‑based approaches can uncover better reasoning paths than plain chain‑of‑thought. \
 • Prompting alone can provide research‑level insights without any model fine‑tuning.
-
-This repo is a research playground for myself: it’s not about state-of-the-art results, but about learning how reasoning methods differ in practice.
 
 ### References
 • [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)\

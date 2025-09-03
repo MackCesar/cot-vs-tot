@@ -1,10 +1,11 @@
-python-dotenv
+openai==1.40.0
+transformers==4.44.0
+httpx<0.28
 huggingface_hub
 datasets
 evaluate
-transformers>=4.44.0
 accelerate
-openai>=1.40.0
+python-dotenv
 tiktoken
 numpy
 pandas
